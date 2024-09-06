@@ -1,4 +1,4 @@
-**Título do Projeto**
+**Projeto de Eletrônica**
 
 **Descrição**
 
@@ -15,7 +15,6 @@ Este projeto é um catálogo online de projetos de eletrônica, sistemas embarca
 * HTML
 * CSS
 * JavaScript
-* JSON
 
 **Como Usar:**
 
@@ -46,21 +45,9 @@ Contribuições são bem-vindas! Abra um issue ou faça um pull request.
 
 **Licença:**
 
-(Adicione a licença escolhida)
+* MIT
 
 **Agradecimentos:**
 
 Agradeço a todos que contribuírem para este projeto!
-```
 
-**Observações:**
-
-* Substitua `[seu_repositorio_git]` pelo endereço real do seu repositório no GitHub.
-* Personalize a descrição, funcionalidades, tecnologias e próximos passos de acordo com o seu projeto.
-* Adicione a licença desejada.
-
-**Dicas adicionais:**
-
-* Use imagens para tornar o README mais visualmente atraente.
-* Crie um demo online para que as pessoas possam experimentar sua aplicação.
-* Documente o código para facilitar a manutenção.
