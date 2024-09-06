@@ -1,0 +1,13 @@
+git remote add ImersaoDevGoogleGemini https://github.com/leocsbh007/ImersaoDevGoogleGemini.git
+
+git branch -M master
+git push -u origin master
+
+
+echo "# teste" >> README.md
+git init
+git add README.md
+git commit -m "Criação do projeto e alterações da estrutura do projeto e inclusão de novas funcionalidades"
+git branch -M master
+git remote add origin https://github.com/leocsbh007/teste.git
+git push -u origin master
