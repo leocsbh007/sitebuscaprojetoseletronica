@@ -1,4 +1,4 @@
-**Projeto de Eletrônica**
+**Consulta de Projetos de Eletrônica**
 
 **Descrição**
 
@@ -20,7 +20,7 @@ Este projeto é um catálogo online de projetos de eletrônica, sistemas embarca
 
 1. Clone o repositório:
    ```bash
-   git clone https://[seu_repositorio_git]/seu-projeto.git
+   git clone https://github.com/leocsbh007/sitebuscaprojetoseletronica.git
    ```
 2. Abra o arquivo index.html em um navegador web.
 3. Utilize a barra de pesquisa para encontrar projetos.
